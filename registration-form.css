@@ -1,0 +1,106 @@
+body { background-color:#ccd4ff;
+       color: black;
+     }
+
+
+.one { background-color:white;
+       height: 250px; 
+       margin: 10px;
+       border-top: 15px solid;
+       border-color: blue; 
+       border-width: 15px;
+       border-radius: 15px;
+       padding: 15px;
+     }
+
+.two { background-color:white;
+       height: 100px; 
+       margin: 10px; 
+       border-radius: 15px;  
+       padding: 15px;
+     }
+
+.three { background-color:white;
+       height: 100px; 
+       margin: 10px; 
+       border-radius: 15px; 
+       padding: 15px;  
+     }
+
+.four { background-color:white;
+       height: 100px; 
+       margin: 10px;
+       border-radius: 15px; 
+       padding: 15px;   
+     }
+
+.five { background-color:white;
+       height: 150px; 
+       margin: 10px;
+       border-radius: 15px; 
+       padding: 15px;   
+     }
+
+.six { background-color:white;
+       height: 100px; 
+       margin: 10px;
+       border-radius: 15px; 
+       padding: 15px;   
+     }
+
+.seven { background-color:white;
+       height: 100px; 
+       margin: 10px;
+       border-radius: 15px; 
+       padding: 15px;   
+     }
+
+.eight { background-color:white;
+       height: 100px; 
+       margin: 10px;
+       border-radius: 15px;
+       padding: 15px;    
+     }
+
+.nine { background-color:white;
+       height: 100px; 
+       margin: 10px;
+       border-radius: 15px; 
+       padding: 15px;   
+     }  
+
+#ten { color: red; } 
+
+.eleven {background-color:lightgreen;
+       height: 10px; 
+       width: 33%;
+       margin: 10px;
+       border-radius: 10px;
+      } 
+
+button {display: inline-block;
+	    background-color: blue;
+	    border-radius: 10px;
+	    border: 4px;
+	    color: #eeeeee;
+	    text-align: center;
+	    font-size: 20px;
+	    padding: 20px;
+	    width: 200px;
+	    margin: 10px;
+        }
+
+.twelve { height: 100px; 
+          margin: 10px;
+          padding: 15px; 
+          border: 10px;
+          padding-left: 10px;
+        }
+.thirteen { height: 100px; 
+          margin: 10px;
+          padding: 15px; 
+          border: 10px;
+          padding-left: 10px;
+        }                   
+
+                                    
